@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "295b8327df423a624e5ce1de092bec78"
+build_time: [1611907662, 639759000]
+inputs:
+  "/Users/sunhyeok/Desktop/PreWorkNew/PreWorkNew/ViewController.swift": [1611907661, 627645519]
+  "/Users/sunhyeok/Desktop/PreWorkNew/PreWorkNew/AppDelegate.swift": [1611902977, 914460029]
+  "/Users/sunhyeok/Desktop/PreWorkNew/PreWorkNew/SceneDelegate.swift": [1611902977, 922715628]
