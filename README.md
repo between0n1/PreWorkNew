@@ -2,7 +2,7 @@
 # preworkforiosuniveristy
 # Pre-work - Tip%
 
-**Sunhyeok Jungp** is a tip calculator application for iOS.
+**Tip%** is a tip calculator application for iOS.
 
 Submitted by: Sunhyeok Jung
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/gallery/repIaoZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/gallery/repIaoZ.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [GIPHY](https://giphy.com).
 
